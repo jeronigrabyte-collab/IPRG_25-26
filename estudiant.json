@@ -1,0 +1,11 @@
+{
+    "Nom": "Jeroni",
+    "Edat": 33,
+    "Nota": 10,
+    "Assignatures": [
+        "IPRG",
+        "SEX",
+        "PI",
+        "APW"
+    ]
+}

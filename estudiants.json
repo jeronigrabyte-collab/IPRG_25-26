@@ -1,0 +1,28 @@
+[
+    {
+        "nom": "Jeroni",
+        "edat": 33,
+        "nota": 10,
+        "assignatures": [
+            "Xarxes",
+            "Seguretat"
+        ]
+    },
+    {
+        "nom": "Pablo",
+        "edat": 40,
+        "nota": 3.0,
+        "assignatures": [
+            "Aplicacions",
+            "Sostenibilitat"
+        ]
+    },
+    {
+        "nom": "Denis",
+        "edat": "65",
+        "nota": "1",
+        "assignatures": [
+            "2"
+        ]
+    }
+]
