@@ -1,0 +1,2 @@
+Exercici 6.2:
+Este codi és similar al anterior però utilitza if, elif i else en lloc de tres if separats. Això fa que només s'execute una de les condicions. Quan comprova si 5 està en la llista, com que és cert, resta 5 a b (que passa de 20 a 15) i ja no comprova les altres condicions. Per això el resultat final és 15 en lloc de -10.

@@ -1,0 +1,2 @@
+Exercici 6.3:
+La funció factorial calcula el factorial d'un número utilitzant recursivitat. Quan li passes el número 6, la funció es crida a si mateixa amb 5, després amb 4, i així successivament fins arribar a 0. Quan n és 0 retorna 1, i després va tornant enrere multiplicant cada número pel resultat anterior. Al final obté 6 x 5 x 4 x 3 x 2 x 1 que és 720.

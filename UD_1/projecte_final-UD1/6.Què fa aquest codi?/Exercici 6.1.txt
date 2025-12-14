@@ -1,0 +1,2 @@
+Exercici 6.1:
+El codi comença amb una llista "a" que conté els valors 5, 10 i 15, i una variable "b" amb valor 20. Després hi ha tres condicionals if que comproven si cada número està en la llista. Com que els tres números estan en la llista, s'executen les tres operacions: primer resta 5 a b (queda 15), després resta 10 (queda 5) i finalment resta 15 (queda -10). Al final imprimeix b, que val -10.
